@@ -32,6 +32,7 @@ header > h2 {
 section {
     padding-top: 5vh;
     padding-bottom: 5vh;
+    padding-right: 30px;
     line-height: 2em;
     padding-left: 30px;
     font-size: 3.5vw;
@@ -78,7 +79,7 @@ section#img2 {
 }
 
 ul {
-    padding-left: 20px;
+    padding-left: 10px;
     columns: 2;
 }
 
